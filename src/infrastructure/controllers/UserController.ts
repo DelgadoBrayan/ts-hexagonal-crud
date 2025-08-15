@@ -1,6 +1,5 @@
 import { NextFunction, Request, Response } from 'express';
 import { IUserService } from '../../application/services/IUserService';
-import { CreateUserRequestDTO } from '../../application/dto/request/CreateUserRequestDTO';
 
 export class UserController {
   constructor(private userService: IUserService) {}
