@@ -1,6 +1,5 @@
 # 🚀 Hexagonal Architecture API – TypeScript + Node.js + MongoDB
 
-![Arquitectura Hexagonal](./assets/banner.png)
 
 Una **API REST** desarrollada con **Arquitectura Hexagonal (Ports & Adapters)**, usando **TypeScript**, **Node.js** y **MongoDB** para lograr un código **limpio, desacoplado y escalable**.
 
